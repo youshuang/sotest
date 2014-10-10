@@ -30,7 +30,7 @@ public class HelloAndroidActivity extends Activity {
     public native String  unimplementedStringFromJNI();
 
     static {
-        System.loadLibrary("hello_jni");
+        System.loadLibrary("hello-jni");
     }
 
 }
