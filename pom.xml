@@ -26,6 +26,7 @@
   <groupId>cn.gyyx.so</groupId>
   <artifactId>libhello_jni</artifactId>
   <version>0.1</version>
+  <scope>runtime</scope>
   <type>so</type>
 </dependency>
 	</dependencies>
