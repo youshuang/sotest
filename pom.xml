@@ -21,6 +21,13 @@
 			<version>4.4.2</version>
 			<scope>provided</scope>
 		</dependency>
+		
+		<dependency>
+  <groupId>cn.gyyx.so</groupId>
+  <artifactId>libhello_jni</artifactId>
+  <version>0.1</version>
+  <type>so</type>
+</dependency>
 	</dependencies>
 	<build>
 		<finalName>${project.artifactId}</finalName>
